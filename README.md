@@ -1,5 +1,5 @@
 # BondPricing_MTLB
-Replication of bond pricing using MATLAB. Homework 2 for the advanced derivatives course. MIF UAI
+Homework 2 - Advanced Derivatives - MIF 2023
 
 This file is an assignment for the 2023 Financial engineering masters at Universidad Adolfo Ibañez.
 
